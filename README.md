@@ -8,9 +8,11 @@ This project models and predicts funding rates for perpetual contracts using Mon
 The project requires the following Python libraries:
 - `numpy`
 - `pandas`
-- `joblib`
+- `plotly`
 - `IPython.display`
-- `time`
+- `datetime`
+- `statsmodels`
+- `glob`
 
 ## 3. How to Run
 
