@@ -1,7 +1,7 @@
 # Modeling Funding Rates Using Stochastic Models and Quantifying Risk for BTC Prepetuals 
 
 ## 1. Introduction
-This project models and predicts funding rates for perpetual contracts using Monte Carlo simulations. It employs Merton’s jump diffusion for index prices and the Ornstein-Uhlenbeck process for funding rates to derive metrics like expected liquidation time and probability. These figures enhance risk management in perpetual contracts trading.
+This project models and predicts funding rates for perpetual contracts using **Monte Carlo simulations**. It employs **Merton’s jump diffusion** process for index prices and the **Ornstein-Uhlenbeck process** for funding rates to derive metrics like **expected liquidation time** and **probability**. These figures enhance *risk management* in perpetual contracts trading.
 
 ## 2. Dependencies
 
