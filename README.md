@@ -24,7 +24,6 @@ In this directory you will find:
 - The project report `Project Report.pdf` detailing the modeling process, the pipeline architecture and the findings.
 - The `Data` directory containing the dataset on which this project was conducted.
 - The `Pipeline.ipynb` file containing the python pipeline of the project.
-- The `Pipeline.html` the HTML version of the pipeline notebook.
 - The `Contracts.csv` contaning the featued contracts in the study.
 
 ## 5. Contributing
