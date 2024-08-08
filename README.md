@@ -9,7 +9,6 @@ The project requires the following Python libraries:
 - `numpy`
 - `pandas`
 - `plotly`
-- `IPython.display`
 - `datetime`
 - `statsmodels`
 - `glob`
