@@ -34,6 +34,10 @@ In this directory you will find:
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## 6. Contact
 
 For any questions or suggestions, please reach out via Email on [yosri.benhalima@ept.ucar.tn].
